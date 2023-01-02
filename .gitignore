@@ -8,6 +8,8 @@
 *.png
 img/
 svg/
+*.mp3
+music/
 
 
 *.log
